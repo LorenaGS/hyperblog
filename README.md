@@ -1,4 +1,4 @@
-# hyperblog :fa-heart:
+# hyperblog :ophiuchus:
 Un blog increible par el curso de[ Git y Github ](https://platzi.com/home " Git y Github ")de [Platzi](https://platzi.com/home "Platzi")
 
 >El curso de Git y Github de Platzi es genial
