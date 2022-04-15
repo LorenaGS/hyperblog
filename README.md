@@ -10,5 +10,6 @@ Un blog increible par el curso de[ Git y Github ](https://platzi.com/home " Git 
 * El verdadero amor por las buenas prácticas
 * Trucos muy locos del profesor
 * Las personalidades múltiples del profesor
+* Creado por Deisy
 
 Y como un amable recordatorio: **Este readme es falso**. Es sólo un ejemplo. 
