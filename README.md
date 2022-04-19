@@ -11,5 +11,7 @@ Un blog increible par el curso de[ Git y Github ](https://platzi.com/home " Git 
 * Trucos muy locos del profesor
 * Las personalidades múltiples del profesor
 * Creado por Deisy
+* Incluye varios ejemplos
+* Disponible para todo :) 
 
 Y como un amable recordatorio: **Este readme es falso**. Es sólo un ejemplo. 
